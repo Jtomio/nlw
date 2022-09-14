@@ -77,6 +77,8 @@ section ul {
     width: 100%;
     display: flex;
     justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 .img-perfil {
     display: flex;
@@ -93,4 +95,15 @@ section ul {
 .img-perfil img {
     border-radius: 50%;
     
+}
+
+.container-img .name {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Inter', sans-serif;
+    line-height: 160%;
+    font-size: 2rem;
+    color: #fff;
+
 }
