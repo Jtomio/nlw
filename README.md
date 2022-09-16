@@ -2,7 +2,7 @@
 
 Projeto desenvolvido na NLW - Next Level Week da Rocketseat.
 
-![preview](./.github/preview.png)
+![preview](./img/preview.png)
 
 
 > 📌 Trilha Explorer - setembro 22.
